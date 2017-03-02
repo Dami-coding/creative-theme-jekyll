@@ -1,4 +1,5 @@
 # Site settings
+<<<<<<< HEAD
 title: Developer
 email: boldsdee@aol.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -11,6 +12,16 @@ url: "" # the base hostname & protocol for your site
 twitter_username: boldsdee
 github_username:  dami-coding
 linkedin_username: damiosinaike
+=======
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+>>>>>>> volny/master
 
 # Build settings
 markdown: kramdown
